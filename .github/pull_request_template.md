@@ -11,21 +11,20 @@
 ## 🔍 Reviewer Notes
 <!-- Add any notes for reviewers to focus on -->
 
-<!-- Fill out these fields if you don't already have a linked linear ticket -->
-<!-- Delete this comment line and following comment line starting with "<!" -->
-<!--
 ## 🛡️ Security Impact
-- **Any Security Risks?** [Yes/No]**  
-  *If Yes, briefly describe potential risks or affected components.
+- **Any Security Risks?** [Yes/No]  
+  *If Yes, briefly describe potential risks or affected components, or answer None.* 
 
 ## ✅ Testing
 - **Tests Outside CI/CD Suite**  
-  *List any manual, exploratory, or environment-specific tests conducted.*
+  *List any manual, exploratory, or environment-specific tests conducted, or answer None.*
 
 ## 🔙 Rollback Plan
 - **Additional Steps**  
-  *List only additional rollback steps beyond the standard GitOps rollback mechanism.*
+  *List any additional rollback steps beyond the standard GitOps rollback mechanism, or answer None.*
 
+<!-- Fill out these fields if you don't already have a linked linear ticket -->
+<!-- Delete this comment line and following comment line starting with "<!" -->
+<!--
 ## 👥 Request Approval
-*Assign any required approvers or stakeholders to the linked Linear sub-issue, if applicable*
-<!-- Delete this closing comment line  -->
+*Assign any required approvers or stakeholders in the linked Linear sub-issue, if applicable.*
