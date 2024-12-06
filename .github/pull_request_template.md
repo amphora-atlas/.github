@@ -15,11 +15,12 @@
 ## 🔍 Reviewer Notes
 <!-- Add any notes for reviewers to focus on -->
 
+<!-- Fill out these fields if you don't already have a linked linear ticket -->
+<!-- Delete this and following comment line starting with "<!" -->
+<!--
+
 ---
 
-<!-- Fill out these fields if you don't already have a linked linear ticket -->
-<!-- Delete this and following comment line -->
-<!--
 ## 🛡️ Security Impact
 - **Any Security Risks?** [Yes/No]
   If Yes, briefly describe potential risks or affected components.
@@ -42,5 +43,5 @@
 - **Reviewers/Stakeholders**
 Assign any required approvers or stakeholders to the linked approval sub-ticket, if applicable
 -->
-<!-- Delete this and previous comment line -->
+<!-- Delete this line and previous comment line starting with an arrow  -->
 
