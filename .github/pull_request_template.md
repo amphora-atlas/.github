@@ -3,7 +3,7 @@
 
 ## ✅ Checklist
 - [ ] Linear ticket is linked by branch name or PR label (`LINEAR-XXXX`)
-- [ ] All tests in the suite pass
+- [ ] All tests in the suite are passing
 - [ ] Additional manual or exploratory testing completed (list below if applicable)
 - [ ] Security impact assessed (see Linear ticket or security notes below)
 - [ ] Additional rollback steps documented (if needed, see below)
@@ -12,24 +12,20 @@
 <!-- Add any notes for reviewers to focus on -->
 
 <!-- Fill out these fields if you don't already have a linked linear ticket -->
-<!-- Delete this and following comment line starting with "<!" -->
+<!-- Delete this comment line and following comment line starting with "<!" -->
 <!--
-
 ## 🛡️ Security Impact
-- **Any Security Risks?** [Yes/No]
-  *If Yes, briefly describe potential risks or affected components.*
+- **Any Security Risks?** [Yes/No]**  
+  *If Yes, briefly describe potential risks or affected components.
 
 ## ✅ Testing
-- **Tests Outside CI/CD Suite**
+- **Tests Outside CI/CD Suite**  
   *List any manual, exploratory, or environment-specific tests conducted.*
 
 ## 🔙 Rollback Plan
-- **Additional Steps**
+- **Additional Steps**  
   *List only additional rollback steps beyond the standard GitOps rollback mechanism.*
 
 ## 👥 Request Approval
-- **Reviewers/Stakeholders**
-*Assign any required approvers or stakeholders to the linked approval sub-ticket, if applicable*
--->
-<!-- Delete this line and previous comment line starting with an arrow  -->
-
+*Assign any required approvers or stakeholders to the linked Linear sub-issue, if applicable*
+<!-- Delete this closing comment line  -->
